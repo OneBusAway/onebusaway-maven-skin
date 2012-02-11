@@ -21,7 +21,7 @@
   <scm>
     <connection>scm:git:http://github.com/OneBusAway/onebusaway-maven-skin.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/OneBusAway/onebusaway-maven-skin.git</developerConnection>
-    <url>http://github.com/onebusaway/onebusaway-maven-skin</url>
+    <url>http://github.com/OneBusAway/onebusaway-maven-skin</url>
   </scm>
 
   <dependencies>
